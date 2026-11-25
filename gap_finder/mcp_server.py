@@ -2,7 +2,7 @@ from dataclasses import asdict
 from mcp.server.fastmcp import FastMCP
 from .graph_builder import analyze_repository
 
-mcp = FastMCP("CallLens")
+mcp = FastMCP("Gap-Finder")
 
 
 @mcp.tool()
