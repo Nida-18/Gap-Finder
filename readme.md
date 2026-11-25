@@ -20,7 +20,7 @@ Instead of surfacing noisy coverage reports full of unused helpers or dead scrip
 Clone the repository and install it in editable mode:
 
 ```bash
-git clone [https://github.com/](https://github.com/)Nida-18/Gap-Finder.git
+git clone https://github.com/Nida-18/Git-Finder
 cd Gap-Finder
 python -m venv .venv
 source .venv/bin/activate
